@@ -23,11 +23,15 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 - OT% is lagging by almost 31%each month, with being highest in June and May with 32.04%.
 - IF% is lagging by almost 30% each month, with being highest in June with 32%
 - We are running good with VOFR% but need improvement in LIFR%.
-- OTIF% was best performing in August and July with (29.39) and (29.35%), with Vadodara being the poorest performer in June with (27.1%). The customers with the - - lowest OTIF% were 'CoolBLue', 'Acclaimed Stores', and 'Lotus Mart'.
-- OT% needs massive improvement since it was the best performing in March (59.6%), and Surat was the best performer in July and March with (62.08%) and (62.04%). - The customers with the lowest OT% were again the same as were in OTIF%.
+---------------
+
+- OTIF% was best performing in August and July with (29.39) and (29.35%), with Vadodara being the poorest performer in June with (27.1%). The customers with the -lowest OTIF% were 'CoolBLue', 'Acclaimed Stores', and 'Lotus Mart'.
+- OT% needs massive improvement since it was the best performing in March (59.6%), and Surat was the best performer in July and March with (62.08%) and (62.04%). The customers with the lowest OT% were again the same as were in OTIF%.
 - IF% was at its lowest in June (52.04%), with Vadodara with its poorest performance (50.39%). The customers with the lowest IF% were 'Elite Mart', 'Sorefoz Mart', and 'Info Stores'.
 - LIFR% and VOFR% were nearly constant through the months, but VOFR% was performing well compared to LIFR%. This means we were supplying enough quantities ordered but failed to deliver specific products due to the unavailability of an inefficient supply chain.
 - Delay in Delivery was highest for "1 day' followed by 2 and 3 Days. DID was highest for Ghee, Butter, Curd and Milk, which should be improved because these products are one of the most in-demand products.
+----------------------------
+
 - If we analyze OTIF%, OT%, and IF% citywide, we see that there are 7 customers with whom we have the lowest performance. They are 'Lotus Mart', 'Acclaimed Stores', 'Vijay Stores', 'CoolBlue', 'Info Stores', ' Sorefoz Mart', and 'Elite Mart'.
 - These customer issues should be addressed first with top priority because 3 account for the maximum orders from the rest of the customers.
 - It can be seen that customers with good LIFR% and VOFR% have ultimately scored pretty well in OTIF%, OT%, and IF%. This means that having required products in enough quantities can benefit the customers to receive orders on time with total amounts.
@@ -35,13 +39,16 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 - With 458K products undelivered to customers, 'Lotus Mart' is at the top of the product list. Unfortunately. Vadodara tops the list with168K products left to be delivered.
 - Undelivered of the requested product can have a severe effect on customer satisfaction. Vadodara being our2nd most significant market, we cannot afford the inefficient supply chain to hamper the customer renewal of contract.
 - According to data insights, the customers with whom we should start working to renew the contracts are Acclaimed Stores, Lotus Mart, CoolBlue, and Vijay Stores.
-Recommendations
+---------------------------
+
+## Recommendations
+
 - OTIF is a 'Hard' metric from customer's point of view, but we are unable to meet the customer's demand both by quantity ordered and timely delivery in all the cities. We are trailing with an average of 36.6% in all cities, which is hampering the reliability of customer.
 - VOFR is performing good compared to LIFR in all the cities which means we are unable to deliver all requested products from customers. So, we should be prepared with inventory beforehand. At least in the demand season.
 - 'Delayin Delivery* has been a major problem in all cities. We were able to deliver 18% of order before agreed delivery date. But, for so many orders were unable deliver 'On Time'. The delay is seen for1,2, and 3 days with an average of 1.21 days.
 - Vadodara, being our biggest market, has much efficient supply chain compared to other two cities since COCD in Ahmedabad and Surat is very high. We should have serious attention to this particular case.
 - Customers who are our biggest client and facing serious issues and heir issues should be resolved first: Acclaimed Stores, CoolBlue and Lotus Mart.
-
+---------------------------
 - Almost all the products have their VOIF above 96% which if a good thing. Whereas LIF has been pretty low for ail the products.
 - Milk being our one of the highest selling and ordered product, we need to have serious attention towards its availability in stock to improve its LIFR and reduce 'Delay in Delivery, followed by Butter and Curd.
 - We need to manage our inventory with our previous data by analysis when we have high demand when we have demand loss. Different query or question, you products have different demand seasons. August is seen as the demand dropping season so we can manage our inventory accordingly.
