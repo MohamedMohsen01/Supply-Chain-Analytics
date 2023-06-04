@@ -30,6 +30,7 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 - IF% was at its lowest in June (52.04%), with Vadodara with its poorest performance (50.39%). The customers with the lowest IF% were 'Elite Mart', 'Sorefoz Mart', and 'Info Stores'.
 - LIFR% and VOFR% were nearly constant through the months, but VOFR% was performing well compared to LIFR%. This means we were supplying enough quantities ordered but failed to deliver specific products due to the unavailability of an inefficient supply chain.
 - Delay in Delivery was highest for "1 day' followed by 2 and 3 Days. DID was highest for Ghee, Butter, Curd and Milk, which should be improved because these products are one of the most in-demand products.
+![photo_6035148883560086843_y](https://github.com/MohamedMohsen01/Supply_Chain_Analytics_Project/assets/109850173/6b84b3e7-f33c-42a2-9217-41ac55e93a46)
 
 
 - If we analyze OTIF%, OT%, and IF% citywide, we see that there are 7 customers with whom we have the lowest performance. They are 'Lotus Mart', 'Acclaimed Stores', 'Vijay Stores', 'CoolBlue', 'Info Stores', ' Sorefoz Mart', and 'Elite Mart'.
