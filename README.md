@@ -17,7 +17,6 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 
 ![photo_6035148883560086843_y](https://github.com/MohamedMohsen01/Supply_Chain_Analytics_Project/assets/109850173/7dae2959-18e5-4e07-b29b-09fe83954999)
 
-![photo_6035148883560086840_w](https://github.com/MohamedMohsen01/Supply_Chain_Analytics_Project/assets/109850173/53976fc9-055c-40e0-be0a-70bc20b845ea)
 
 - AtliQMarts's product demand is almost equally distributed in all three cities, i.e., Vadodara, Surat and Ahmedabad.
 - The most in-demand Category from the customers' side is 'Dairy' with 38K Orders, followed by Foods. The most demanding product is Milk, with 3.7M quantities sold, followed by Curd with 3.2M.
@@ -32,6 +31,8 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 ## Insight 2
 
 ![photo_6035148883560086841_y](https://github.com/MohamedMohsen01/Supply_Chain_Analytics_Project/assets/109850173/b5094d99-624e-4a26-a323-b8f75c4c7fae)
+
+![photo_6035148883560086840_w](https://github.com/MohamedMohsen01/Supply_Chain_Analytics_Project/assets/109850173/53976fc9-055c-40e0-be0a-70bc20b845ea)
 
 - OTIF% was best performing in August and July with (29.39) and (29.35%), with Vadodara being the poorest performer in June with (27.1%). The customers with the -lowest OTIF% were 'CoolBLue', 'Acclaimed Stores', and 'Lotus Mart'.
 - OT% needs massive improvement since it was the best performing in March (59.6%), and Surat was the best performer in July and March with (62.08%) and (62.04%). The customers with the lowest OT% were again the same as were in OTIF%.
