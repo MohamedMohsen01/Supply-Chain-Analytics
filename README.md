@@ -34,7 +34,7 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 
 ![photo_6035148883560086841_y](https://github.com/MohamedMohsen01/Supply_Chain_Analytics_Project/assets/109850173/b5094d99-624e-4a26-a323-b8f75c4c7fae)
 
-- OTIF% was best performing in August and July with (29.39) and (29.35%), with Vadodara being the poorest performer in June with (27.1%). The customers with the -lowest OTIF% were 'CoolBLue', 'Acclaimed Stores', and 'Lotus Mart'.
+- OTIF% was best performing in August and July with (29.39%) and (29.35%), with Vadodara being the poorest performer in June with (27.1%). The customers with the -lowest OTIF% were 'CoolBLue', 'Acclaimed Stores', and 'Lotus Mart'.
 - OT% needs massive improvement since it was the best performing in March (59.6%), and Surat was the best performer in July and March with (62.08%) and (62.04%). The customers with the lowest OT% were again the same as were in OTIF%.
 - IF% was at its lowest in June (52.04%), with Vadodara with its poorest performance (50.39%). The customers with the lowest IF% were 'Elite Mart', 'Sorefoz Mart', and 'Info Stores'.
 - LIFR% and VOFR% were nearly constant through the months, but VOFR% was performing well compared to LIFR%. This means we were supplying enough quantities ordered but failed to deliver specific products due to the unavailability of an inefficient supply chain.
