@@ -41,7 +41,8 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 
 ## Insight 3
 
-![photo_6035148883560086843_y](https://github.com/MohamedMohsen01/Supply_Chain_Analytics_Project/assets/109850173/20fd8d06-3bc8-452d-94e2-80ba66ff8026)
+![photo_6035148883560086842_y](https://github.com/MohamedMohsen01/Supply_Chain_Analytics_Project/assets/109850173/0ad9d0f4-770e-4735-9d2e-1e322896e200)
+
 
 - If we analyze OTIF%, OT%, and IF% citywide, we see that there are 7 customers with whom we have the lowest performance. They are 'Lotus Mart', 'Acclaimed Stores', 'Vijay Stores', 'CoolBlue', 'Info Stores', ' Sorefoz Mart', and 'Elite Mart'.
 - These customer issues should be addressed first with top priority because 3 account for the maximum orders from the rest of the customers.
