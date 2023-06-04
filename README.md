@@ -23,7 +23,7 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 - OT% is lagging by almost 31%each month, with being highest in June and May with 32.04%.
 - IF% is lagging by almost 30% each month, with being highest in June with 32%
 - We are running good with VOFR% but need improvement in LIFR%.
----------------
+--
 
 - OTIF% was best performing in August and July with (29.39) and (29.35%), with Vadodara being the poorest performer in June with (27.1%). The customers with the -lowest OTIF% were 'CoolBLue', 'Acclaimed Stores', and 'Lotus Mart'.
 - OT% needs massive improvement since it was the best performing in March (59.6%), and Surat was the best performer in July and March with (62.08%) and (62.04%). The customers with the lowest OT% were again the same as were in OTIF%.
