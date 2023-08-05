@@ -15,7 +15,8 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 
 ## Insight 1
 
-![photo_6035148883560086843_y](https://github.com/MohamedMohsen01/Supply_Chain_Analytics_Project/assets/109850173/7dae2959-18e5-4e07-b29b-09fe83954999)
+
+![photo 1](https://github.com/MohamedMohsen01/Supply-Chain-Analytics-PowerBI/assets/109850173/632c4f71-53a3-46da-b074-ad852547129b)
 
 
 - AtliQMarts's product demand is almost equally distributed in all three cities, i.e., Vadodara, Surat and Ahmedabad.
@@ -30,9 +31,9 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 
 ## Insight 2
 
-![photo_6035148883560086840_w](https://github.com/MohamedMohsen01/Supply_Chain_Analytics_Project/assets/109850173/53976fc9-055c-40e0-be0a-70bc20b845ea)
+![photo_5942650041216912823_y](https://github.com/MohamedMohsen01/Supply-Chain-Analytics-PowerBI/assets/109850173/f64edaee-d7b4-49be-9bc6-deddcf1de3f3)
+![photo_5942650041216912824_y](https://github.com/MohamedMohsen01/Supply-Chain-Analytics-PowerBI/assets/109850173/ff8ad2b7-6c41-41f2-90f3-e9a27b9b1098)
 
-![photo_6035148883560086841_y](https://github.com/MohamedMohsen01/Supply_Chain_Analytics_Project/assets/109850173/b5094d99-624e-4a26-a323-b8f75c4c7fae)
 
 - OTIF% was best performing in August and July with (29.39%) and (29.35%), with Vadodara being the poorest performer in June with (27.1%). The customers with the -lowest OTIF% were 'CoolBLue', 'Acclaimed Stores', and 'Lotus Mart'.
 - OT% needs massive improvement since it was the best performing in March (59.6%), and Surat was the best performer in July and March with (62.08%) and (62.04%). The customers with the lowest OT% were again the same as were in OTIF%.
@@ -41,8 +42,9 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 - Delay in Delivery was highest for "1 day' followed by 2 and 3 Days. DID was highest for Ghee, Butter, Curd and Milk, which should be improved because these products are one of the most in-demand products.
 
 ## Insight 3
+![photo_5942650041216912825_y](https://github.com/MohamedMohsen01/Supply-Chain-Analytics-PowerBI/assets/109850173/004e894a-a74b-4d5d-88d4-9d4cda3ce8fa)
 
-![photo_6035148883560086842_y](https://github.com/MohamedMohsen01/Supply_Chain_Analytics_Project/assets/109850173/0ad9d0f4-770e-4735-9d2e-1e322896e200)
+
 
 
 - If we analyze OTIF%, OT%, and IF% citywide, we see that there are 7 customers with whom we have the lowest performance. They are 'Lotus Mart', 'Acclaimed Stores', 'Vijay Stores', 'CoolBlue', 'Info Stores', ' Sorefoz Mart', and 'Elite Mart'.
