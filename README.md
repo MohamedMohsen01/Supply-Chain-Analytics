@@ -70,4 +70,4 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 - We need to manage our inventory with our previous data by analysis when we have high demand when we have demand loss. Different query or question, you products have different demand seasons. August is seen as the demand dropping season so we can manage our inventory accordingly.
 - Some of the mostly affected customers which are repeating in every products category are Acclaimed Stores, Lotus Mart, CoolBlue, and Vijay Stores. We need to concentrate first on their service improvement and satisfaction.
 
-For additional project details, please feel free to visit my [Power BI Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzNmOGI3MWQtOTUxNC00OTEzLWFjMTQtN2EzODRiYWI2YzFiIiwidCI6IjMzODU0OWQ1LThiMDgtNDdlMS1iOGQyLWJlNTIwZTJiM2FkNSJ9)
+For additional project details, please feel free to visit my [Power BI Dashboard Link](https://www.novypro.com/project/supply-chain-analytics-power-bi-3)
